@@ -221,14 +221,9 @@ header {
     font-weight: 500;
 }
 
-.cta-button>.button:hover {
-    border: solid rgb(198, 198, 198) 4px;
-    padding: 6px 20px;
-}
-
 footer {
     width: 100%;
-    background: white;
+    background-color: white;
     margin-top: auto;
     text-align: center;
     padding: 20px;
@@ -250,11 +245,6 @@ footer {
     font-weight: 500;
     cursor: pointer;
     z-index: 1000;
-}
-
-.button:hover {
-    border: solid rgb(208, 207, 207) 4px;
-    padding: 6px 20px;
 }
 
 a {
